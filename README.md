@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Medina</h1>
-<h3 align="center">I am a passionate part-time barista, and the other part of the time I try to be a programmer.</h3>
+<h3 align="center">I am a passionate part-time barista☕️, and the other part of the time I try to be a programmer💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmedina8&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmedina8" /> </p>
 
 - 🌱 I’m currently learning **about all.**
-
-- 📫 How to reach me **bark171923@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rLsnz5s-btyi9oienCcoUm5ddsgHBa6i/view?usp=sharing](https://drive.google.com/file/d/1rLsnz5s-btyi9oienCcoUm5ddsgHBa6i/view?usp=sharing)
 
