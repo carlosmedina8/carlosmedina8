@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmedina8&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmedina8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosmedina8" alt="carlosmedina8" /></a> </p>
-
 - 🌱 I’m currently learning **about all.**
 
 - 📫 How to reach me **bark171923@gmail.com**
 
-- ⚡ Fun fact **Im very extroverted**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rLsnz5s-btyi9oienCcoUm5ddsgHBa6i/view?usp=sharing](https://drive.google.com/file/d/1rLsnz5s-btyi9oienCcoUm5ddsgHBa6i/view?usp=sharing)
+
+- ⚡ Fun fact **Im very extroverted and i love music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
